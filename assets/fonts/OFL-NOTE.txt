@@ -1,0 +1,8 @@
+Шрифты в этой папке — Google Fonts, распространяются по лицензии SIL Open Font License 1.1 (OFL),
+которая разрешает свободное использование и редистрибуцию файлов шрифтов:
+
+- Unbounded — https://fonts.google.com/specimen/Unbounded
+- Manrope — https://fonts.google.com/specimen/Manrope
+- JetBrains Mono — https://fonts.google.com/specimen/JetBrains+Mono
+
+Текст лицензии: https://openfontlicense.org
