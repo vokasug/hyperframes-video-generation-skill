@@ -60,7 +60,7 @@ edge-tts --voice ru-RU-DmitryNeural --rate=+5% --file scene.txt \
 | OpenClaw / PicoClaw | опенкло / пикокло |
 | Qwen / Kimi | квэн / кими |
 | ZCode / GLM | зет-код / джи-эл-эм |
-| Ollama / LM Studio / llama.cpp | оллама / ЛМ сту́дио / лама цэ-пэ-пэ |
+| Ollama / LM Studio / llama.cpp | оллама / ЛМ стьюдио / лама цэ-пэ-пэ |
 | fine-tuning | файн-тюнинг |
 | prompt injection | промпт-инъекция (рус. читается нормально) |
 
